@@ -1,1 +1,30 @@
 /* write your override styles here */
+#main .tag {Add commentMore actions
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+
+#header .title {
+  font-size: 2rem;
+  color: navy;
+  text-shadow: none;
+}
+
+#footer .link {
+  color: gray;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.content .highlight {
+  background: none;
+  font-style: normal;
+  color: #333;
+}
+
+.article .note {
+  color: darkgreen;
+  border: none;
+  padding: 10px;
+}
